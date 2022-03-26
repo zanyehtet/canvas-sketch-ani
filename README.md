@@ -1,3 +1,3 @@
 # Instruction to run
-- npm install
-- canvas-sketch sketch-03.js
+- cmd --> npm install 
+- To run the file cmd --> canvas-sketch sketch-03.js
