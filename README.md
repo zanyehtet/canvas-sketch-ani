@@ -1,3 +1,6 @@
+## Install the CLI tool globally
+npm install canvas-sketch-cli -g
+
 # Instruction to run
-- cmd --> npm install 
-- To run the file, cmd --> canvas-sketch sketch-03.js
+npm install 
+canvas-sketch sketch-03.js
