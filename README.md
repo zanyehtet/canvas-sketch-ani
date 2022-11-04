@@ -7,4 +7,4 @@ npm install
 canvas-sketch sketch-03.js
 
 #Side Note
-Coding test from a course.
+- Coding test from a course.
