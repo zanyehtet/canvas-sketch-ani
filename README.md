@@ -1,4 +1,4 @@
-Preview is in the gif file
+Preview animation is in the gif file
 
 ## Install the CLI tool globally
 npm install canvas-sketch-cli -g
